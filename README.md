@@ -28,11 +28,11 @@ The system leverages the official WhatsApp Business Cloud API for reliable messa
 - Receives structured JSON payload containing sender details, message content, timestamp, and metadata  
 - Registers a webhook endpoint automatically during credential setup
 
-![View](Whatsapp%20Final%20Workflow.png)  
-![View](2nd%20Whatsaapp%20Trigger%20works.png)  
-![View](AI%20Agent%20works.png)
-![View](WH%20Response%201.jpeg)  
-![View](WH%20Response%202.jpeg)  
+![View](./whatsappaichatbotassets/Whatsapp%20Final%20Workflow.png)  
+![View](./whatsappaichatbotassets/2nd%20Whatsaapp%20Trigger%20works.png)  
+![View](./whatsappaichatbotassets/AI%20Agent%20works.png)
+![View](./whatsappaichatbotassets/WH%20Response%201.jpeg)  
+![View](./whatsappaichatbotassets/WH%20Response%202.jpeg)  
 
 ### 🔄 Core Processing Path
 
